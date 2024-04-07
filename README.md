@@ -5,8 +5,7 @@
 - 💞️ I’m always looking to collaborate with projects and companies focused on using data to make the world just a bit better for everyone.
 - 📫 Message me on LinkedIn if you would like to reach out: https://www.linkedin.com/in/kr-erickson/
 - 😄 Pronouns: he/him
-- ⚡ The significant majority of projects I've worked on are the intellectual property of my employer at the time and I can't legally share them publically. You can find old projects
-- from grad school on here though, and I may throw other more recent projects on here if I make anything in my spare time worth sharing.
+- ⚡ The significant majority of projects I've worked on are the intellectual property of my employer at the time and I can't legally share them publically. You can find old projects from grad school on here though, and I may throw other more recent projects on here if I make anything in my spare time worth sharing.
 
 <!---
 aeontheory/aeontheory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
